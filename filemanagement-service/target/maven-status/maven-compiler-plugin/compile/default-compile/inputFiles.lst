@@ -1,0 +1,15 @@
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\service\impl\FileManagementServiceImplGoogleBucket.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\security\WebSecurityConfig.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\security\config\JwtAuthConfig.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\controller\FileManagementController.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\controller\converters\Converter.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\repository\FileDescriptionRepository.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\controller\dto\FileDescriptorDto.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\service\exceptions\UnsupportedOperationException.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\FileManagementServiceApplication.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\model\FileDescription.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\model\Service.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\service\FileManagementService.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\security\JwtAuthorizationFilter.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\service\exceptions\FileNotFoundException.java
+D:\Users\csaba\Downloads\stc-main-devel (3)\Új mappa\filemanagement-service\src\main\java\hu\me\iit\malus\thesis\filemanagement\service\impl\FileManagementServiceImplFileSystem.java
