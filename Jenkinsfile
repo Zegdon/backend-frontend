@@ -14,6 +14,7 @@ pipeline {
       dockerHome = tool 'myDocker'
       registryCredential = 'dockerlogin'
       mavenHome = tool 'myMaven'
+	  modejshome = tool 'myNode'
       PATH = "$dockerHome/bin:$mavenHome/bin:$PATH"
 
       }
